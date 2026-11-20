@@ -1,0 +1,6 @@
+table,rows,cols,nulls
+districts.csv,"(24, 10)","(24, 10)",2
+age_sex.csv,"(864, 9)","(864, 9)",0
+life_table_inputs.csv,"(18, 5)","(18, 5)",2
+projection_scenarios.csv,"(3, 6)","(3, 6)",0
+insured_transitions.csv,"(96, 6)","(96, 6)",0
