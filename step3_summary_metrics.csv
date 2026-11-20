@@ -1,0 +1,15 @@
+metric,value,unit
+Transition intensity q_HI (Healthy -> Ill),0.103529,per person-year
+Transition intensity q_HD (Healthy -> Dead),0.017985,per person-year
+Transition intensity q_IH (Ill -> Healthy),0.245058,per person-year
+Transition intensity q_ID (Ill -> Dead),0.067282,per person-year
+Mean holding time in Healthy (H),8.2295,years
+Mean holding time in Ill (I),3.2016,years
+Next-jump probability P(next = H | Ill),0.7846,probability
+Next-jump probability P(next = D | Ill),0.2154,probability
+1-year fixed-date probability P_IH(1),0.1984,probability
+Year 1 expected deaths,616.5,lives
+Year 1 expected death claims,616500.63,USD
+Year 2 expected deaths,634.46,lives
+Year 2 expected death claims,634456.54,USD
+Cumulative 2-year claims,1250957.17,USD
